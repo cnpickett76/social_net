@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="c07f04bc-c737-44db-9d5c-b981e06396c1" kpf_version="4" name="social_net.kpf">
+<preference-set idref="c07f04bc-c737-44db-9d5c-b981e06396c1">
+  <boolean id="import_live">1</boolean>
+</preference-set>
+</project>
